@@ -1,4 +1,2 @@
 # INTERACT-Lab
-work in progress stuff
-
-
+# Acoustophoretic Levitation.
